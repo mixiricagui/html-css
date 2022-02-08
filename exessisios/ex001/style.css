@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+body{
+    background-image: linear-gradient(to top,#A6A29C, #BFBEBD);
+    background-attachment: fixed;
+    text-align: justify;
+   }
+   main{
+     background-color: white;
+     padding: 5%;
+     width: 600px;
+     margin: auto;
+     box-shadow: 10px 10px 10px rgba(13, 13, 13, 0.443);
+
+   }
+  mark{
+      color: rgb(255, 253, 253);
+  }
+code{
+    font-size: 12pt;
+}
+h1{
+  color: #404040;
+  font-size: 2em;
+}
+h2{
+  color: #bd6630;
+  font-size:2em;
+  font-family: serif;
+}
+p{
+  font-family: sans-serif;
+  color:rgb(0, 0, 0);
+  text-indent: 20px;
+}
+p#principal{
+  text-align: center;
+  color: #404040;
+}
+pre{
+  color: rgb(64, 64, 64);
+  text-align: center;
+}
+ol{
+  color: rgb(0, 0, 0);
+}
+h3{
+  color: #D57133;
+}
+h4{
+  text-align: center;
+}
+
